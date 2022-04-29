@@ -1,4 +1,4 @@
-![alt text](https://github.com/[polovgrime]/[polovgrime]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[polovgrime]/[polovgrime]/blob/[main]/изображение_2022-04-29_101731471.jpg?raw=true)
 
 
 <!---
