@@ -1,5 +1,3 @@
-![alt text](https://github.com/polovgrime/polovgrime/blob/main/изображение_2022-04-29_101731471.png?raw=true)
-
 
 <!---
 polovgrime/polovgrime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
